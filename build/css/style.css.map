@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAEA;EACI,aAHS;EAIT,0BAHW;EAIX,qBAAa;EAAb,cAAa,EAChB","file":"style.css","sourcesContent":["$width: 500px;\n$color: #44aaff;\n#container {\n    width: $width;\n    background-color: $color;\n    display: flex;\n}"]}

@@ -1,0 +1,7 @@
+$width: 500px;
+$color: #44aaff;
+#container {
+    width: $width;
+    background-color: $color;
+    display: flex;
+}
